@@ -7,3 +7,4 @@ Data Science And Machine Learning Enginner Journey
 
 In This Journey I used Python as A primary Language Because I Liked it 
 
+String Is A type of data types 

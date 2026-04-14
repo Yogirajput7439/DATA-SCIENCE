@@ -9,5 +9,7 @@ In This Journey I used Python as A primary Language Because I Liked it
 
 String Is A type of data types 
 
-I have used python in this jogen journey as my first language
+I have used python in this ML journey as my first language
 and learn with library and tools 
+
+Make A projects 

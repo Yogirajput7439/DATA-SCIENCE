@@ -13,3 +13,5 @@ I have used python in this ML journey as my first language
 and learn with library and tools 
 
 Make A projects 
+
+Added To many sections 
